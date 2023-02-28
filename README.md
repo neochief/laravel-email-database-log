@@ -1,3 +1,5 @@
+Maintained repository: https://github.com/jeremykenedy/laravel-email-database-log
+---
 # Laravel Email Database Log
 
 A simple database logger for all outgoing emails sent by Laravel website.
